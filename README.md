@@ -1,5 +1,13 @@
-## Welcome to sherangexcrew 👋
+## Hi there 👋
 
+**Admin : 03xploit**
+
+**Email : sherangcrew1337@gmail.com**
+
+```hejei```
+
+
+______
 <!--
 **sherangexcrew/sherangexcrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
