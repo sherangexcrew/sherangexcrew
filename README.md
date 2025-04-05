@@ -4,16 +4,17 @@
 
 ```Email   : sherangcrew1337@gmail.com```
 
-```Website : sherangexcrew.com ```
+```Website : sherangexcrew.com```
 
 
 ______
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Please read readme.MD Every tool here is not used for illegal activities.
+
+
+
+
+
+
+
 
