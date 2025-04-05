@@ -12,6 +12,9 @@ ______
 **Popular Respository🔥**
 
 **📌HTTP CHECKER**  github.com/sherangexcrew/http-checker
+
+**ENV SCANNER**
+github.com/sherangexcrew/env-scanner
 <!--
 **sherangexcrew/sherangexcrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
