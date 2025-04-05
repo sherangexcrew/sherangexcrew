@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-**Admin : 03xploit**
+```Admin   : 03xploit```
 
-**Email : sherangcrew1337@gmail.com**
+```Email   : sherangcrew1337@gmail.com```
 
-```hejei```
+```Website : ```
 
 
 ______
